@@ -14,6 +14,9 @@
 		33E521F21E19278C004C7FCE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 33E521F01E19278C004C7FCE /* LaunchScreen.storyboard */; };
 		33E521FD1E19278C004C7FCE /* TimerAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E521FC1E19278C004C7FCE /* TimerAppTests.swift */; };
 		33E522081E19278C004C7FCE /* TimerAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E522071E19278C004C7FCE /* TimerAppUITests.swift */; };
+		33E522161E193F56004C7FCE /* ホリエモンお怒り.png in Resources */ = {isa = PBXBuildFile; fileRef = 33E522151E193F56004C7FCE /* ホリエモンお怒り.png */; };
+		33E522181E193F60004C7FCE /* ホリエモン通常.png in Resources */ = {isa = PBXBuildFile; fileRef = 33E522171E193F60004C7FCE /* ホリエモン通常.png */; };
+		33E5221A1E1A2F9F004C7FCE /* sei_ge_bell01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 33E522191E1A2F9F004C7FCE /* sei_ge_bell01.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +50,9 @@
 		33E522031E19278C004C7FCE /* TimerAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TimerAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		33E522071E19278C004C7FCE /* TimerAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerAppUITests.swift; sourceTree = "<group>"; };
 		33E522091E19278C004C7FCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		33E522151E193F56004C7FCE /* ホリエモンお怒り.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ホリエモンお怒り.png"; sourceTree = "<group>"; };
+		33E522171E193F60004C7FCE /* ホリエモン通常.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "ホリエモン通常.png"; sourceTree = "<group>"; };
+		33E522191E1A2F9F004C7FCE /* sei_ge_bell01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sei_ge_bell01.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +107,9 @@
 				33E521E91E19278C004C7FCE /* ViewController.swift */,
 				33E521EB1E19278C004C7FCE /* Main.storyboard */,
 				33E521EE1E19278C004C7FCE /* Assets.xcassets */,
+				33E522191E1A2F9F004C7FCE /* sei_ge_bell01.mp3 */,
+				33E522151E193F56004C7FCE /* ホリエモンお怒り.png */,
+				33E522171E193F60004C7FCE /* ホリエモン通常.png */,
 				33E521F01E19278C004C7FCE /* LaunchScreen.storyboard */,
 				33E521F31E19278C004C7FCE /* Info.plist */,
 			);
@@ -237,7 +246,10 @@
 			files = (
 				33E521F21E19278C004C7FCE /* LaunchScreen.storyboard in Resources */,
 				33E521EF1E19278C004C7FCE /* Assets.xcassets in Resources */,
+				33E5221A1E1A2F9F004C7FCE /* sei_ge_bell01.mp3 in Resources */,
+				33E522181E193F60004C7FCE /* ホリエモン通常.png in Resources */,
 				33E521ED1E19278C004C7FCE /* Main.storyboard in Resources */,
+				33E522161E193F56004C7FCE /* ホリエモンお怒り.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
